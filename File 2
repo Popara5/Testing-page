@@ -1,0 +1,6 @@
+This is file 2. List of http installation steps:
+Install httpd
+Verify the service status
+Configure the firewall
+Enable httpd
+Test in the broswer
